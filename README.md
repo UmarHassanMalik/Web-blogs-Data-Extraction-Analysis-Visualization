@@ -13,7 +13,7 @@
 - Regular Expression
 - WordNetLemmatizer
 - Import stopwords
-- Sent_tokenize, word_tokenize
+- Sent tokenize, word tokenize
 - FreqDist
 - Sklearn feature extraction text
 - CountVectorizer 
