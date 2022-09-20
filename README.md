@@ -3,18 +3,18 @@
 
  <h3> Libraries </h3> 
  
-- requests
-- bs4
+- Requests
+- BS4
 - BeautifulSoup
-- pandas 
-- numpy
+- Pandas 
+- Numpy
 - DataFrame
-- string
+- String
 - Regular Expression
 - WordNetLemmatizer
-- import stopwords
-- sent_tokenize, word_tokenize
+- Import stopwords
+- Sent_tokenize, word_tokenize
 - FreqDist
-- sklearn feature extraction text
+- Sklearn feature extraction text
 - CountVectorizer 
 - TfidfVectorizer
